@@ -1,0 +1,8 @@
+---
+title: "Zhou EDA"
+output: word_document
+---
+
+```{r,message=FALSE}
+CompData <- read_csv("~/First year Git/Comp Data with ACT 2.csv")
+```
